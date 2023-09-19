@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>website</title>
+    </head>
+    <body>
+        <h1>ESMA NAZLI</h1>
+        <h2>HAKKIMDA</h2>
+        <p>ben esma nazlı işbilir 18 yaşındayım. fantastik bilim kurgu okumayı izlemeyi çok severim </p>
+        <h3>sevdiğim filmler</h3>
+        <ul>
+            <li>harry potter</li>
+            <li>LOTR</li>
+            <li>star wars</li>
+            <li>karayip korsanları</li>
+            <li>yukarı bak</li>
+            <li>wall-e</li>
+        </ul>
+        <h4>harry potter</h4>
+        <p>11 yaşında anne ve babası ölmüş genellikle yok sayılıp duyguları önemsiz sayılan</p>
+         <p>sevgisiz değersiz güçsüz büyüyen bir çocuğun kahraman olma hikayesi</p>
+    </body>
+</html>
